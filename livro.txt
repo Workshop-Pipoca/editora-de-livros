@@ -7,5 +7,3 @@ O Git revolucionou essa abordagem, introduzindo o conceito de controle de versã
 O Git também se destaca por sua rapidez, eficiência e capacidade de lidar com projetos grandes e complexos. Ele utiliza um sistema de rastreamento de alterações baseado em snapshots chamados "commits". Cada commit representa um ponto na história do projeto e contém informações sobre as alterações feitas. Isso permite que os desenvolvedores acompanhem o progresso do projeto, revertam para versões anteriores e resolvam conflitos de forma eficaz.
 
 Além disso, o Git introduziu a ideia de "branches", que são cópias isoladas do código onde os desenvolvedores podem trabalhar em novos recursos ou correções de bugs sem afetar diretamente o código principal. Isso possibilita o desenvolvimento paralelo e a experimentação sem comprometer a estabilidade do projeto.
-
-
