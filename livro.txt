@@ -11,7 +11,3 @@ Além disso, o Git introduziu a ideia de "branches", que são cópias isoladas d
 Com o tempo, o Git se tornou a base para uma série de plataformas de hospedagem de código, como o GitHub, GitLab e Bitbucket, que facilitam a colaboração entre desenvolvedores em projetos de código aberto e privados.
 
 Em resumo, o Git revolucionou a forma como o controle de versão é realizado, permitindo um desenvolvimento de software mais eficiente, colaborativo e flexível.
-
-
-
-
